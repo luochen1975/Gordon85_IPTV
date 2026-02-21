@@ -60,9 +60,9 @@ http://183.236.43.98:4013/udp/239.77.0.173:5146$订阅源
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东民生.png" group-title="☘️广东频道",广东民生
 http://183.236.43.98:4013/udp/239.77.0.225:5146$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
-http://183.236.43.98:4013/udp/239.77.0.168:5146$订阅源
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
 http://183.236.43.98:4013/udp/239.77.0.112:5146$订阅源
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
+http://183.236.43.98:4013/udp/239.77.0.168:5146$订阅源
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
 http://183.236.43.98:4013/udp/239.77.0.215:5146$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
@@ -74,15 +74,15 @@ https://cdn6.163189.xyz/163189/fct4k$自用源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://hls.168.us.kg/u/81/master.m3u8$自用源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
-http://mytv.cdn.loc.cc/o12.php?id=mzt$自用源
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=0kKsxj&tk=EuWQIWwVA7n1$自用源
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://mytv.cdn.loc.cc/o12.php?id=mzt$自用源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=66$本地源
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
-http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bfIYXv&tk=EuWQIWwVA7n1$自用源
-#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$自用源
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
+http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bfIYXv&tk=EuWQIWwVA7n1$自用源
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
 https://cdn6.101.qzz.io/163189/wxxw$自用源
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
@@ -138,9 +138,9 @@ http://183.236.43.98:4013/udp/239.77.1.163:5146$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://183.236.43.98:4013/udp/239.77.0.170:5146$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://183.236.43.98:4013/udp/239.77.0.87:5146$订阅源
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://183.236.43.98:4013/udp/239.77.1.31:5146$订阅源
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+http://183.236.43.98:4013/udp/239.77.0.87:5146$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://183.236.43.98:4013/udp/239.77.0.171:5146$订阅源
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
@@ -216,14 +216,14 @@ http://183.236.43.98:4013/udp/239.77.1.142:5146$订阅源
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://183.236.43.98:4013/udp/239.77.1.215:5146$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://183.236.43.98:4013/udp/239.77.1.182:5146$订阅源
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://183.236.43.98:4013/udp/239.77.1.141:5146$订阅源
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://183.236.43.98:4013/udp/239.77.1.182:5146$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://183.236.43.98:4013/udp/239.77.0.131:5146$订阅源
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
 http://183.236.43.98:4013/udp/239.77.0.179:5146$订阅源
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="🎬电影频道",美亚电影
 http://tl.061833.xyz/tl/null-5#http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=YUJ2Ne&tk=EuWQIWwVA7n1$自用源
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="🕘️更新时间",2026-02-21 10:31:34
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="🕘️更新时间",2026-02-21 12:45:03
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101$自用源
