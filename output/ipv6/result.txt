@@ -50,4 +50,4 @@ ViuTV,http://hls.168.us.kg/u/99/master.m3u8$自用源
 美亚电影,http://tl.061833.xyz/tl/null-5#http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=YUJ2Ne&tk=EuWQIWwVA7n1$自用源
 
 🕘️更新时间,#genre#
-2026-03-08 05:32:12,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101$自用源
+2026-03-08 10:41:45,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101$自用源
